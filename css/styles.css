@@ -119,12 +119,12 @@ hr {
     width: 500px;
 }
 .skill-row {
-    margin: 100px 30px 100px 30px;
+    padding: 100px 30px 100px 30px;
     text-align: left;
 }
 .skills {
-    margin: 100px 30px 100px 30px;
+    padding: 100px 30px 100px 30px;
 }
 .contact {
-    margin: 100px 30px 100px 30px;
+    padding: 100px 30px 100px 30px;
 }
